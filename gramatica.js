@@ -21,7 +21,8 @@ const subFuturoJ = {
     "Una buena nueva",
     "Una noticia",
     "Una llovizna",
-    "Una brisa"
+    "Una brisa",
+    "Un anuncio"
   ],
   adjAmorJ: [
     "inesperado",
