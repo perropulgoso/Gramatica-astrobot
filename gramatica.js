@@ -57,7 +57,8 @@ const subFuturoJ = {
     "tu techo",
     "tus rosas",
     "tu alma",
-    "tu piel"
+    "tu piel",
+    "tu regazo"
   ],
 
   //futuro 1 sabiduría futura
